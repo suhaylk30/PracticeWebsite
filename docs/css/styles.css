@@ -1,0 +1,34 @@
+body{
+    font-family: SansSerif;
+}
+#wrapper{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu {
+    background-color: antiquewhite;
+    height: 80px;
+    line-height: 80px;
+    width: 368px;
+    float: left;
+}
+#logo {
+    width: 592px;
+    float: left;
+}
+
+#menu ul {
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#banner {
+    clear: both;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+}
+
